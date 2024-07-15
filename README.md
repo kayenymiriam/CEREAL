@@ -19,3 +19,7 @@ This data was obtained from kaggle, an online website containing datasets. It co
 ### SKILLS DEMOSTRATED
 The following Power BI features were incorporated;
 Calculated columns, quick measures, measures.
+
+![](https://github.com/kayenymiriam/CEREAL/blob/main/calories%20categories.png)
+
+
