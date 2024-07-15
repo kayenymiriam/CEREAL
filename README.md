@@ -23,3 +23,6 @@ Calculated columns, quick measures, measures.
 ![](https://github.com/kayenymiriam/CEREAL/blob/main/calories%20categories.png)
 
 
+![](https://github.com/kayenymiriam/CEREAL/blob/main/carbohydrate%20category.png)
+
+
